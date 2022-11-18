@@ -1,0 +1,22 @@
+.grid-container {
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100vh;
+}
+
+.marginXD {
+  margin-right: 5px;
+}
+.separacion {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+  align-items: center;
+}
